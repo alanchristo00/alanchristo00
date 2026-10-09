@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christo Alan B
 
-### 🤖 AI & Full-Stack Developer | Generative AI • Data Science • Machine Learning
+### 🎓 B.Tech Student | Aspiring AI & Full-Stack Developer
 
 > **Building intelligent systems where AI meets real-world applications.**
 
@@ -23,7 +23,7 @@ AI → Data → Intelligence → Application → Impact
 🧩 Working with **REST APIs, Open APIs & Gemini**
 💾 Working with **SQL & databases**
 🛠️ Using **Git & GitHub** for development and collaboration
-🚀 Currently focused on becoming a strong **AI + Full-Stack Developer**
+🚀 Preparing for software placements and building practical projects
 
 ---
 
@@ -334,11 +334,7 @@ while True:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn URL here -->
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<!-- Add your LinkedIn profile and email here when ready. -->
 
 </p>
 
